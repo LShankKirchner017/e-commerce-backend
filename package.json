@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LShankKirchner017/e-commerce-backend.git"
+  },
+  "author": "Lindsay Shank-Kirchner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LShankKirchner017/e-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/LShankKirchner017/e-commerce-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mysql2": "^3.6.0",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
