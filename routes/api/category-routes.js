@@ -51,7 +51,7 @@ router.put("/:id", async (req, res) => {
       }
     })
     res.json(updatedCategory)
-  } catch(err {
+  } catch(err) {
     res.status(500).json(err)
   }
 });
